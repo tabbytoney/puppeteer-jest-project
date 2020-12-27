@@ -4,7 +4,7 @@
   "description": "test framework using jest and puppeteer",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --forceExit"
   },
   "author": "Tabby Toney Douglass",
   "license": "ISC",
